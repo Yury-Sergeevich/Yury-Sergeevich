@@ -3,7 +3,10 @@
 </div>
 <div class="socials" align="center">
     <a href="https://vk.com/yury_sergeevich87">
-      <img alt="Static Badge" src="https://img.shields.io/badge/vk-blue?style=plastic&logo=vk&logoColor=white">
+      <img alt="Static Badge" src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white">
+    </a>
+    <a href="https://t.me/yury_sergeevich87">
+      <img alt="Static Badge" src="https://img.shields.io/badge/telegram-33BEFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=33BEFF&color=485962">
     </a>
   </div>
 
