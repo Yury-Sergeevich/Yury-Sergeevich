@@ -9,6 +9,11 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/telegram-33BEFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=33BEFF&color=485962">
     </a>
   </div>
+  <div class="counter">
+    <h1>
+      <img src="https://komarev.com/ghpvc/?Yury-Sergeevich=Yury-Sergeevich&color=green"/>
+    </h1>
+  </div>
 
 
 <!--
