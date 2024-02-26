@@ -16,7 +16,8 @@
 </div>
 <hr height="1px"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yury-Sergeeviche&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yury-Sergeeviche&theme=solarized_dark)
 
 
 
