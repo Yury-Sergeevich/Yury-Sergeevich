@@ -17,7 +17,7 @@
 <hr height="1px"/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yury-Sergeeviche&theme={tokyonight}&exclude={exclude}"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yury-Sergeeviche&theme=tokyonight&exclude={exclude}"/>
 </div>
 
 
