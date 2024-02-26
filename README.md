@@ -16,8 +16,8 @@
 </div>
 <hr height="1px"/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yury-Sergeeviche)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yury-Sergeevich
+&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
