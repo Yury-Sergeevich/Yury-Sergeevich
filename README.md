@@ -10,7 +10,8 @@
     </a>
   </div>
   <div class="counter">
-    <img src="https://komarev.com/ghpvc/?yurysergeevich=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?yurysergeevich=Yury-Sergeevich
+&style=flat-square&color=blue" alt=""/>
   </div>
 
 
