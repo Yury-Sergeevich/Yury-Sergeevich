@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=Yury-Sergeeviche&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
-<hr height="2"/>
+<hr height="10"/>
 
 
 
