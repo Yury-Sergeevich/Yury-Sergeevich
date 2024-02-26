@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div class="header">
+  <img https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpxZGF6aW9vb3JlZDcybGw4emF6M3I5eTB0dTZhOWt0aHVmYThrbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif/>
+</div>
 
 <!--
 **Yury-Sergeevich/Yury-Sergeevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
