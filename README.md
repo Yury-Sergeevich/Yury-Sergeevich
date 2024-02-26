@@ -16,11 +16,9 @@
 </div>
 <hr height="1px"/>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yury-Sergeeviche&theme=tokyonight&exclude={exclude}"/>
-</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yury-Sergeeviche)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yury-Sergeeviche)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
